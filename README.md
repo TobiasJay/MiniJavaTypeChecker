@@ -1,4 +1,4 @@
-###MiniJava Type Checker
+# MiniJava Type Checker
 
 This is a project I did for school. Check out the assignment description for full details of the assignment. 
 
